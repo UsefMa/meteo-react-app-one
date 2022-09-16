@@ -1,3 +1,7 @@
+# weather app built with react js and openweathermap api for geting the data
+
+#Demo https://usefma.github.io/meteo-react-app-one/ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
